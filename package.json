@@ -1,0 +1,23 @@
+{
+  "name": "mustafamert",
+  "version": "3.0.0",
+  "description": "Narcos Code Form Sistemli BotList Altyapısı",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "MustafaMert",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.26.0",
+    "discord-modals": "^1.2.4",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "jimp": "^0.16.1",
+    "nrc.db": "^2.1.0"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  }
+}
